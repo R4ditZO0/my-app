@@ -1,3 +1,25 @@
+For Diploma Project guidlines
+1. clone the repo in your local machine repo
+by using this command in cmd              npm clone https://github.com/R4ditZO0/my-app.git
+
+2. to install the dependencies that have been used in this project.
+3. change directory to the cloned repo
+4. then open cmd and use this command        npm -i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
